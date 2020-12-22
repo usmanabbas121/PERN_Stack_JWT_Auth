@@ -1,4 +1,4 @@
-# PERN_Stack_TODO_App_JWT_Auth
+# PERN_Stack_JWT_Auth
 
 Here is the complete code for PERN Stack App for Sign Up and Sign IN functionality made from scratch with the help of (JWT), Json web token.
 Token is stored in local storage for session management. Applied bcrypt for password encryption. Added some middlewares for token authentication, authorization and validation of credentials and token.
